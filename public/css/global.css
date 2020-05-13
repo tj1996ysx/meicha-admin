@@ -1,0 +1,19 @@
+.btn-group-xs>.btn, .btn-xs {
+    padding: 0.4rem .8rem;
+}
+.form-group.has-error label {
+    color: #dd4b39
+}
+
+.form-group.has-error .form-control, .form-group.has-error .input-group-addon {
+    border-color: #dd4b39;
+    box-shadow: none
+}
+
+.form-group.has-error .help-block {
+    color: #dd4b39
+}
+
+#crudTable_filter input[type=search]{
+    border: 1px solid #e4e4e4;
+}
